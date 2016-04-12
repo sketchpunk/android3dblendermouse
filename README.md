@@ -1,6 +1,8 @@
 # Android Virtual 3D Mouse for Blender 3D
 This project was a 2 week sprint to create a proof of concept that you can turn an android device into a 3D mouse that can control a 3d modeling application. Since I'm learning blender and its built in such a way that they make it easy to interface with it, I use that app as the basis of the experiment. This project is solely meant as a submission for the Android Experiements contest. If there is an actual need for this, then I may continue it further but maybe swopping out the serial communications for UDP connection, which should remove the hardware requirements to get android to communicate with windows.
 
+Youtube video of this in action - https://youtu.be/0j87vnCestY
+
 ### Prerequisities
 - Blender 2.77 - https://www.blender.org/download/
 - PySerial
